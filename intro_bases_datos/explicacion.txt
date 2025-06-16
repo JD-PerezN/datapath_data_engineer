@@ -1,0 +1,6 @@
+Se adjunta tarea del módulo 2 Introduccion a Bases de Datos, la cual contiene:
+
+* Caso de Negocio
+* Modelo Conceptual
+* Modelo Lógico
+* Modelo Físico
